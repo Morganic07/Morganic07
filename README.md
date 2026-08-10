@@ -28,20 +28,3 @@
   <a href="https://momostudio.me" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:phoenixroyal78@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
-
-### GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Morganic07&show_icons=true&theme=tokyonight&title_color=2183ED&icon_color=2183ED3&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Morganic07&layout=compact&theme=tokyonight&title_color=2183ED&icon_color=2183ED&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
-</p>
-
-
-### Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
-</p>
-
----
-<p align="center"><i> From <a href="https://github.com/Morganic07">Morganic07</a></i></p>
